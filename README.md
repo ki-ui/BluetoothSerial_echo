@@ -1,0 +1,2 @@
+# BluetoothSerial_echo
+ESP32にbluetooth経由で送信したメッセージをそのまま返します。
